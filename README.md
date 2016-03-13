@@ -5,6 +5,7 @@ Research Project at NITK CMU Winter School 2014: Diabetes Readmission Rate Analy
 
 <h1>Analysis of Hospital Readmission Rates</h1>
 <br></br>
+
 <h3>A.	Introduction</h3>
 <h6>1.	IMPORTANCE AND THE ISSUE!</h6>
 <p>In India and many other countries, we can observe patients waiting in long queue for a doctor and many patients dying in the emergency wards with no doctor present at the right time. Moreover, many patients loose lives due to lack of medical equipment, nurses, lab tests and ambulances. This calls for an efficient hospital resource management.</p>
